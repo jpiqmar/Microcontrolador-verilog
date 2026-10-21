@@ -1,7 +1,7 @@
 # Microcontrolador RISC-V Monociclo 💻
 
 ## Descripción General
-Este proyecto presenta el diseño completo y la implementación desde cero de un **Microcontrolador RISC-V** funcional, desarrollado en **SystemVerilog**. Ha sido diseñado de forma colaborativa por un equipo de 5 estudiantes de ingeniería.
+Este proyecto presenta el diseño completo y la implementación desde cero de un **Microcontrolador RISC-V** funcional, desarrollado en **SystemVerilog**. Ha sido diseñado de forma colaborativa por un equipo de 6 estudiantes de ingeniería.
 
 ## Arquitectura y Módulos
 El diseño sigue una arquitectura monociclo e incluye la implementación estructural y la interconexión de todos los módulos principales:
